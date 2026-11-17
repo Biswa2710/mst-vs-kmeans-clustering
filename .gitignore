@@ -1,0 +1,7 @@
+*.pptx
+~$*.pptx
+make_*.py
+build_deck.py
+ppt/
+__pycache__/
+.DS_Store
