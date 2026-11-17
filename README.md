@@ -153,4 +153,6 @@ matplotlib
 
 ## 👨‍💻 Author
 
-**Biswa** — Pattern Mining / Unsupervised Learning Project
+**Biswa**
+**Anurag**
+
