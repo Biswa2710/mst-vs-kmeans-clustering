@@ -1,5 +1,10 @@
 # MST vs K-Means: Robustness Analysis
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Biswa2710/mst-vs-kmeans-clustering/blob/main/mst_vs_kmeans.ipynb)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Biswa2710/mst-vs-kmeans-clustering)
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 > A quantitative comparison of **MST-based clustering** (Zahn-style edge cutting) vs **K-Means** under noise, outliers, and non-linear data distributions.
 
 ---
